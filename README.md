@@ -29,6 +29,6 @@ Sepolia 테스트넷에서 발생한 실제 전송 트랜잭션을 분석하는 
    git clone [https://github.com/본인아이디/레포지토리이름.git](https://github.com/yjkim7810/blockchain-lab-3.git)
    cd 레포지토리이름
 
-실습 결과 스크린샷
+## 실습 결과 스크린샷
    <img width="2860" height="1358" alt="image" src="https://github.com/user-attachments/assets/abcec44e-c026-46d9-af5b-53ccc3d44e7a" />
 
